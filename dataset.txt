@@ -1,0 +1,12 @@
+SUMBER DATASET PROYEK INDIVIDU
+Mata Kuliah: Deep Learning / Pemrosesan Sinyal Digital
+
+1. Dataset Eksperimen 1 (CNN from Scratch):
+   Nama Dataset: CIFAR-10 Dataset (Subset Airplane & Automobile)
+   Sumber URL: https://www.cs.toronto.edu/~kriz/cifar.html
+   Metode Akses: Unduhan otomatis via API (tf.keras.datasets.cifar10)
+
+2. Dataset Eksperimen 2 (Transfer Learning):
+   Nama Dataset: Cats and Dogs Filtered Dataset
+   Sumber URL: https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
+   Metode Akses: Unduhan otomatis via tf.keras.utils.get_file direktori lokal Colab
